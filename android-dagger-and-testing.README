@@ -1,0 +1,12 @@
+fab@fab-Inspiron-3542 ~/android-examples $ cd android-testing/
+fab@fab-Inspiron-3542 ~/android-examples/android-testing $ git remote -v
+origin	https://github.com/googlecodelabs/android-testing.git (fetch)
+origin	https://github.com/googlecodelabs/android-testing.git (push)
+fab@fab-Inspiron-3542 ~/android-examples/android-testing $ 
+fab@fab-Inspiron-3542 ~/android-examples/android-testing $ 
+fab@fab-Inspiron-3542 ~/android-examples/android-testing $ cd ../android-dagger2-example/
+fab@fab-Inspiron-3542 ~/android-examples/android-dagger2-example $ git remote -vorigin	https://github.com/MindorksOpenSource/android-dagger2-example.git (fetch)
+origin	https://github.com/MindorksOpenSource/android-dagger2-example.git (push)
+fab@fab-Inspiron-3542 ~/android-examples/android-dagger2-example $ 
+fab@fab-Inspiron-3542 ~/android-examples/android-dagger2-example $ 
+fab@fab-Inspiron-3542 ~/android-examples/android-dagger2-example $ 
